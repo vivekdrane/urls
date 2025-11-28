@@ -3,6 +3,7 @@
   "allowed": [
     "https://ps.uci.edu/~franklin/doc/file_upload.html",
     "https://practice.expandtesting.com/upload",
+    "https://*.com",
     "https://automationtesting.co.uk/fileupload.html"
   ]
 }
